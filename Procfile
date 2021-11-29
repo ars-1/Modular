@@ -1,1 +1,1 @@
-web: gunicorn Modular.wsgi:application --log-file -
+web: gunicorn Modular.wsgi.application --log-file -
