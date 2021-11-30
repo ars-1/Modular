@@ -21,4 +21,4 @@ from django.conf.urls.static import static
 urlpatterns = [
     path('tekhouseadmin/', admin.site.urls),
     path('', include('Core.urls')),
-] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+] + static(settings.STATIC_ROOT, document_root=settings.STATIC_ROOT)
