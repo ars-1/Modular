@@ -57,7 +57,10 @@ Management software for Internet Service Providers
 <br>
 
 ## Other Info
-* Looking for a demo? Visit : https://tekhousedemos.netlify.app or email me directly
+* DEMO for this app: https://modular-django.herokuapp.com/ 
+  * Admin Username: admin
+  * Admin Password: password
+* Looking for more demos? Visit : https://tekhousedemos.netlify.app or email me directly
 
 <!-- vvfawok-2303 -->
 
